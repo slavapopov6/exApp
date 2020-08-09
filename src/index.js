@@ -1,2 +1,1 @@
-import "./module.js";
-console.log("sandu");
+import "./scss/index.scss";
