@@ -1,0 +1,23 @@
+{
+  "name": "exapp",
+  "version": "1.0.0",
+  "description": "Pure JS app",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavapopov6/exApp.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Veaceslav Popov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavapopov6/exApp/issues"
+  },
+  "homepage": "https://github.com/slavapopov6/exApp#readme"
+}
